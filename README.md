@@ -16,7 +16,8 @@ https://fujiangliang.github.io/people/
 ![](assets/images/2.png)
 
 #### 3. Commit and Push
-* After making changes, click **Git** | **Commit**. 
+* After doing some changes, click **Git** | **Commit**. 
 * Specify commit message, and run **Commit and Push** 
+* Now see how your website changes !
 
 ![](assets/images/3.png)
