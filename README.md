@@ -17,6 +17,6 @@ https://fujiangliang.github.io/people/
 
 #### 3. Commit and Push
 * After making changes, click **Git** | **Commit**. 
-* Specify commit message, and  
+* Specify commit message, and run **Commit and Push** 
 
 ![](assets/images/3.png)
