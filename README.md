@@ -9,7 +9,7 @@ https://fujiangliang.github.io/people/
 * Open the IDE settings and select **Preferences** | **Version Control** | **GitHub**
 * Click **+** and select **Log In via GitHub**
 
-![](assets/images/1.png)
+![](assets/images/1.png?x50)
 
 #### 2. Clone GitHub Project From Version Control
 
