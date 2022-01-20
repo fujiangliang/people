@@ -33,7 +33,7 @@ p {
   text-align: justify; }
 
 blockquote {
-  font-size: 12px;
+  font-size: 15px;
   text-align: justify; }
   blockquote p {
     margin-bottom: 0px;
@@ -145,7 +145,7 @@ footer {
   display: inline-block; }
 
 .bibtex-code {
-  font-size: 11px; }
+  font-size: 12px; }
 
 .btn-toggle.collapsed .icon-right {
   display: inline-block; }
